@@ -15,8 +15,8 @@
 * Finding the best way to visually present data and communicate it.
 
 ### Where you can reach me
-* rossfriscia14@gmail.com
-
+[![email](email.png)](rossfriscia14@gmail.com)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/ross-friscia-data-scientist/)
 <!--
 **rafrisci/rafrisci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
- MS in Data Science
 -->
