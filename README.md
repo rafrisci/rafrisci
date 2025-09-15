@@ -5,7 +5,7 @@
 * I am a Senior Data Analytics Consultant with Bytecode IO.
 * I graduated from the University of Washington in 2023 with a 3.95 GPA earning my MS in Data Science.
 * I previously completed a yearlong Data Scientist internship at NBCUniversal.
-* I have over 7 years of Data Scientist and Analyst experience.
+* I have over 9 years of Data Scientist and Analyst experience.
 
 ### What I am interested in
 
